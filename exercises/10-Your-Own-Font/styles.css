@@ -1,3 +1,8 @@
+@font-face {
+	font-family: "Emilys Candy", cursive;
+	src: url(https://fonts.googleapis.com/css2?family=Emilys+Candy&display=swap);
+}
+
 .myTitle {
-	/*your code here*/
+	font-family: Emilys Candy;
 }

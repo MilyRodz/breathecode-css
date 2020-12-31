@@ -1,0 +1,26 @@
+body {
+	background-image: url("https://github.com/4GeeksAcademy/css-tutorial-exercises-course/blob/master/.learn/assets/background-vertical.jpg?raw=true");
+	background-repeat: repeat-y;
+}
+h1 {
+	font-family: "Courier", Courier, monospace;
+	color: red;
+	text-align: center;
+}
+h2 {
+	font-family: "Times New Roman", Times, serif;
+	text-decoration: underline;
+}
+html {
+	padding-left: 20px;
+}
+p1 {
+	padding: 5px;
+	background: rgba(255, 255, 255, 0.2);
+}
+a:hover {
+	color: green;
+}
+a {
+	text-decoration: none;
+}

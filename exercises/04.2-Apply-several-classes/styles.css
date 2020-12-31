@@ -13,9 +13,9 @@
 	font-weight: bold;
 }
 
-.spades,
-.spades:after {
-	content: "♤";
+.heart,
+.heart:after {
+	content: ;
 	color: black;
 }
 
